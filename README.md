@@ -1,2 +1,2 @@
-# Basic-Portfolio-Landing-Page
+# Basic Portfolio Landing Page
 A Simple Portfolio Landing Page
