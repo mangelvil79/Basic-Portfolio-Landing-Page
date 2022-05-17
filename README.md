@@ -14,7 +14,7 @@ A Simple Portfolio Landing Page
 
 <br>
 <H3>How to Install/Use</H3>
-	<p>N/A
+	<p>Download code in zip format an extract into a folder.
 
 <br>
 <H3>Credits</H3>
